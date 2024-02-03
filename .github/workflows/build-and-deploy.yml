@@ -16,7 +16,7 @@ on:
 #2
 env:
   REGISTRY: "registry.digitalocean.com/dibimbing-digitalocean"
-  IMAGE_NAME: "dibimbing_ml"
+  IMAGE_NAME: "dibimbing-digitalocean"
 
 #3
 jobs:
